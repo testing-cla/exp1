@@ -70,5 +70,5 @@ Under the folder storing the simulation results, there are several types of file
 * .sca file stores the scalar value of the collected statistics. See [here](https://doc.omnetpp.org/omnetpp/manual/#sec:ana-sim:scalar-result-files) for more information.
 * .vec file stores the time series data. See [here](https://doc.omnetpp.org/omnetpp/manual/#sec:ana-sim:output-vector-files) for more information.
 
-* <host_id>_rdma_latency_histograms stores the breakdown latency inside the RDMA..
+* <host_id>_rdma_latency_histograms stores the breakdown latency inside the RDMA.
 
