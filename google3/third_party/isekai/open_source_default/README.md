@@ -72,4 +72,6 @@ Under the folder storing the simulation results, there are several types of file
 
 * <host_id>_rdma_latency_histograms stores the breakdown latency inside the RDMA..
 
+* test
+
 
